@@ -80,9 +80,10 @@ This repo is a portfolio showcase of my project journey — from early documenta
 
 ## 📥 Access the Project
 
-* 📚 Documentation Phase(https://github.com/bisma-azeem-13/FYP_Documentation_Phase) 
-* 📑 Prototype Phase(https://github.com/bisma-azeem-13/FYP_Prototype_Phase)
-* 📽️ Final Phase (https://github.com/bisma-azeem-13/FYP_Realtime_Deepfake_Detection_System) | Video Demo (https://drive.google.com/file/d/1YpzPYFCUkOV6V_cOijYWRMNxCKOszLk_/view?usp=sharing)
+- 📚 [Documentation Phase](https://github.com/bisma-azeem-13/FYP_Documentation_Phase)  
+- 📑 [Prototype Phase](https://github.com/bisma-azeem-13/FYP_Prototype_Phase)  
+- 📽️ [Final Phase](https://github.com/bisma-azeem-13/FYP_Realtime_Deepfake_Detection_System) | [Video Demo](https://drive.google.com/file/d/1YpzPYFCUkOV6V_cOijYWRMNxCKOszLk_/view?usp=sharing)
+
 
 
 ---
