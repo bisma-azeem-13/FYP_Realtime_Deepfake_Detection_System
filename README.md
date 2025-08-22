@@ -101,7 +101,7 @@ Let’s talk **AI, deepfakes, and machine learning research** — or if you’re
 👉 feel free to reach out directly:
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/bisma-azeem-qureshi/)
-* 📧 **[bismazeem1304@gmail.com]**
+* 📧 **bismazeem1304@gmail.com**
 
 ---
 
