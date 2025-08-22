@@ -80,9 +80,10 @@ This repo is a portfolio showcase of my project journey — from early documenta
 
 ## 📥 Access the Project
 
-* 📑 **[Final Report (PDF)](./Final_Report.pdf)**
-* 📽️ **[Presentation Slides (PPTX)](./Final_Presentation.pptx)**
-* 📚 Documentation files (SRS + Design Doc)
+* 📚 Documentation Phase(https://github.com/bisma-azeem-13/FYP_Documentation_Phase) 
+* 📑 Prototype Phase(https://github.com/bisma-azeem-13/FYP_Prototype_Phase)
+* 📽️ Final Phase (https://github.com/bisma-azeem-13/FYP_Realtime_Deepfake_Detection_System) | Video Demo (https://drive.google.com/file/d/1YpzPYFCUkOV6V_cOijYWRMNxCKOszLk_/view?usp=sharing)
+
 
 ---
 
@@ -105,9 +106,4 @@ Let’s talk **AI, deepfakes, and machine learning research** — or if you’re
 
 ✨ *“Innovation means solving real problems — I built FauxFace to protect digital trust, and I’d love to see it make an impact beyond the classroom.”*
 
-
-
-This keeps it professional, inviting, and business-ready — without sounding like you’re desperate to sell. Just confident. 👑
-
-Luna, do you want me to also phrase it in a way that subtly hints at **licensing / commercial use** (so they know it’s not free-for-all), or should I keep it open-ended for now?
 
