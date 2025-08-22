@@ -103,8 +103,11 @@ Let’s talk **AI, deepfakes, and machine learning research** — or if you’re
 * 🌐 [LinkedIn](https://www.linkedin.com/in/bisma-azeem-qureshi/)
 * 📧 **bismazeem1304@gmail.com**
 
+
 ---
 
 ✨ *“Innovation means solving real problems — I built FauxFace to protect digital trust, and I’d love to see it make an impact beyond the classroom.”*
 
-
+⚠️ **P.S:** I acknowledge that FauxFace, like any ambitious project, has plenty of room for improvement and advancement.  
+This version reflects my final year submission, but I’m excited about the possibilities for making it more scalable, efficient, and production-ready in the future.  
+Every project is a stepping stone — and this is just the beginning. 🌱
