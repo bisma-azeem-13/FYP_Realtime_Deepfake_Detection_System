@@ -33,7 +33,7 @@ This repo is a portfolio showcase of my project journey — from early documenta
 * **Frontend:** HTML, CSS, JavaScript
 * **Deep Learning:** TensorFlow + Keras 
 * **Computer Vision:** OpenCV
-* **Deployment Tools:** Google Colab Pro+ (A100 GPU)
+* **Development Tool:** Google Colab Pro+ (A100 GPU)
 
 ---
 
